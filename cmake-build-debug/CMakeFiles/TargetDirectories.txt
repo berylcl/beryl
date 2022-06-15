@@ -1,0 +1,3 @@
+/home/gakii/CLionProjects/beryl/cmake-build-debug/CMakeFiles/beryl.dir
+/home/gakii/CLionProjects/beryl/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gakii/CLionProjects/beryl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
